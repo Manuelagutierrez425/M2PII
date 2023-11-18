@@ -41,7 +41,7 @@ def main():
     st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABoo5xPXk3QpuqQkl092AtjLzyIYqolTBUg&usqp=CAU", width=800, caption='Robo en Transporte Público')
          
     
-    st.markdown("<p class='info-text'> Los delincuentes pueden operar de diversas maneras, desde arrebatos rápidos de pertenencias hasta técnicas más elaboradas como distracciones, amenazas o forcejeos. El robo en el transporte público es una realidad preocupante en muchas ciudades. ¡No te conviertas en una estadística más! Esta aplicación te ofrece información crucial sobre easto que tanto sucede en cualquier lugar</p>", unsafe_allow_html=True)
+    st.markdown("<p class='info-text'> Los delincuentes son muy astutos pueden operar de diversas maneras, desde arrebatos rápidos de pertenencias hasta técnicas más elaboradas como distracciones, amenazas o forcejeos. El robo en el transporte público es una realidad preocupante en muchas ciudades. ¡No te conviertas en una estadística más! Esta aplicación te ofrece información crucial sobre easto que tanto sucede en cualquier lugar</p>", unsafe_allow_html=True)
 
     st.markdown("<p class='warning'>¡Tu seguridad es lo primero! Explora consejos, estadísticas y recursos para prevenir el robo en el transporte público.</p>", unsafe_allow_html=True)
 
